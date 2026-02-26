@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Button from "./components/button";
 
 export default function Home() {
     return (
@@ -61,6 +62,11 @@ export default function Home() {
                     </a>
                 </div>
                 <h1>Adding some new text</h1>
+                <div>
+                    <Button>
+                        Button
+                    </Button>
+                </div>
             </main>
         </div>
     );
