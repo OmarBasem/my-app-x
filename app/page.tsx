@@ -61,15 +61,12 @@ export default function Home() {
                         Documentation
                     </a>
                 </div>
-<<<<<<< HEAD
                 <h1>Adding some new text</h1>
-=======
                 <div>
                     <Button>
                         Button
                     </Button>
                 </div>
->>>>>>> 342bd6c (implemented button)
             </main>
         </div>
     );
