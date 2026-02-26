@@ -60,6 +60,7 @@ export default function Home() {
                         Documentation
                     </a>
                 </div>
+                <h1>Adding some new text</h1>
             </main>
         </div>
     );
